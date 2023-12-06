@@ -1,4 +1,8 @@
 body {
     text-align: center;
-    background-color: honeydew;
+    background-color: rgb(158, 28, 167);
+}
+
+a {
+    color: white;
 }
