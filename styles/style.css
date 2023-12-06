@@ -1,8 +1,26 @@
 body {
-    text-align: center;
     background-color: rgb(158, 28, 167);
+}
+
+h1, p {
+    text-align: center;
 }
 
 a {
     color: white;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 0 20px;
+}
+
+.croissant-photo {
+    max-width: 60%;
+    display: block;
+    border-radius: 10px;
+    margin: 10px auto;
 }
